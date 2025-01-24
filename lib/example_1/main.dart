@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_demo/ResponsiveContainer.dart';
-import 'package:responsive_demo/mobile_layout.dart';
-import 'package:responsive_demo/web_layout.dart';
+import 'package:responsive_demo/example_1/web_layout.dart';
+
+import 'ResponsiveContainer.dart';
+import 'mobile_layout.dart';
 
 void main() {
   runApp(const MainApp());
